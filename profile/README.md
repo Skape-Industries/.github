@@ -1,6 +1,5 @@
 ## The Grass Is Greener With Us! 
 
-<!--
 Available starting Spring of 2022 on  iOS and Android devices. 
 
 skape Industries LLC, doing business as "Skape", is the developer of computer application software for mobile phones, 
@@ -11,4 +10,3 @@ We look forward to seeing you all when the sun is out and Skape is ready to roll
 A beautiful lawn is our commitment. 
 
 The Grass is Greener with us!
--->
