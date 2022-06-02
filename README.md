@@ -1,4 +1,3 @@
-The Grass Is Greener With Us!
 Sign up for our beta app for homeowners (Skape) using the link below! Available on iOS and Android devices. Keep an eye out for the beta release of our landscaper app (Skaper)!
 
 Skape iOS App - https://appdistribution.firebase.dev/i/21ced3a664fa33e4
