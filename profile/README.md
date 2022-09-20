@@ -42,7 +42,7 @@ The Grass is Greener with us!
 
 16. ![IMG_7293](https://user-images.githubusercontent.com/83181391/191299631-6a5d10ac-3391-4092-882f-e6f824833bb1.png)
 
-17. ![IMG_7294](https://user-images.githubusercontent.com/83181391/191299626-496cd08c-b101-4708-8858-45d55751cbe2.png)
+17. ![IMG_7298](https://user-images.githubusercontent.com/83181391/191306457-36ccd1e6-5176-4175-af30-e86a561687dc.png)
 
 18. ![IMG_7295](https://user-images.githubusercontent.com/83181391/191299621-419d3dd3-3a0c-412e-a56d-041f5d03ba41.png)
 
