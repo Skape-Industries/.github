@@ -10,11 +10,11 @@ We think Skape is a big idea .. not just a great business idea, but a world-chan
 
 The Grass is Greener with us!
 
-![IMG_7280](https://user-images.githubusercontent.com/83181391/191299670-d65e973b-c5eb-4dee-b70f-9c35153cfe2f.png)
-
 ![IMG_7297](https://user-images.githubusercontent.com/83181391/191299676-ec2d05d1-64dd-4fab-b78e-b55b5457c25d.jpg)
 
 ![IMG_7296](https://user-images.githubusercontent.com/83181391/191299678-8fb857d6-b9d6-49cd-9979-502a3836b61a.jpg)
+
+![IMG_7280](https://user-images.githubusercontent.com/83181391/191299670-d65e973b-c5eb-4dee-b70f-9c35153cfe2f.png)
 
 ![IMG_7295](https://user-images.githubusercontent.com/83181391/191299621-419d3dd3-3a0c-412e-a56d-041f5d03ba41.png)
 
