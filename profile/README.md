@@ -1,19 +1,59 @@
-## The Grass Is Greener With Us! 
+<div align="center">
 
-skape Industries LLC, doing business as "Skape", is the developer of computer application software for mobile phones, 
-namely, software for connecting individuals seeking lawn mowing, snow plowing, mulching, leaf removal, weeding, and hedge trimming services 
-with local landscaping and snow plowing companies. 
+# 🌿 Skape Industries
 
-The goal of our mobile apps is to bring landscapers and homeowners together to create jobs, beautify communities and significantly improve the environment by turning towards a greener and more environmentally-friendly mode of landscaping. 
+### Landscaping, Made Simple.
 
-We think Skape is a big idea .. not just a great business idea, but a world-changing, environment-saving, headache-eliminating idea and we hope you will join us on our incredible journey.
+**[skape.us](https://skape.us)**
 
-The Grass is Greener with us!
+---
 
+</div>
 
+## What We're Building
 
-https://user-images.githubusercontent.com/83181391/192599362-0f97770b-5c45-43a2-bdcf-c1646bf88c69.mp4
+Skape is an on-demand landscaping marketplace that connects homeowners with local landscaping professionals. Think of it as the simplest way to get your yard taken care of — select your property, pick your services, choose a time, and you're done. No phone calls, no quotes, no back-and-forth.
 
+Landscapers bid on jobs, homeowners pick their favorite, and everything from scheduling to payment happens seamlessly in the app.
 
+## The Platform
 
-<img src="https://user-images.githubusercontent.com/83181391/192598741-570c7a16-d144-47e4-8ffb-68fac237fc42.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598742-b92ec571-e438-4aa1-99ac-226de397e7d1.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598743-986e6deb-c549-4660-8c9a-efc4b18da48c.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598745-17d58670-947e-4feb-9ae2-90bb580a1dda.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598746-b9af3a33-4c03-46e5-a5aa-913f36b46de1.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598748-a1a191c4-d638-491c-8f08-0e9a3ee95fd1.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598750-a2e6ed05-75c7-4271-8b51-e220d5c3f055.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598752-a6dddb20-bac4-4ce8-b3cc-a1300b32aa2c.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598756-5b8f0594-14de-4d5d-9734-3be0d566c492.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598758-3cd73c47-bcb1-4458-94b7-8d926f772336.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598761-251b62df-9c42-4d0c-ba6d-06b7192f7b7c.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598763-10673305-83a6-4158-8163-0500e85dcdc2.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598765-ecc4963e-e163-4ad4-9be0-a543954601f8.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598766-574828ac-520e-454b-b72c-81d820b10072.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598768-ddbd2795-a889-4de2-bda1-93c2744febcb.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598769-924eac92-e048-4ac3-8c8a-3ab0b8fa69e4.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598771-a81068b6-f706-4a74-87a8-ed5a39b7fdfd.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598774-57e459d0-5922-4da3-af26-f6f5917e9671.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598777-02a97d3c-b56f-49fb-be3c-03a6015645de.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598778-b98322cd-4f06-47bf-bf07-57ead3f2dfe0.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598779-34699442-2bc5-4a41-a084-aaf4b5f931ee.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598781-c9a34289-996f-4ffd-a008-cf7c16402b7d.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598783-a51dc1b7-b602-465e-91b0-06e584c74a7f.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598786-46b5ea31-c58a-48fe-93e8-74e881c02e5b.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598788-7ad00d13-65e5-4460-ae4e-34206dba8ef3.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598790-fc9cd5e5-4123-4c55-91bd-0ba99324e936.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598794-103af658-3502-48ea-9d88-446d9e9e2fee.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598796-d2a461af-3991-4a23-9918-393359a8efcc.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598798-fdbfcd79-ef52-46fe-a2db-2c9e961b9dfe.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598800-347b27c8-d49b-4712-b881-59103ae23992.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598802-e62d72d7-6ed7-4539-91ae-933405fb7100.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598804-f363e80f-716f-4da3-8fa6-ceabd1b3c06a.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598805-e2e6e79d-e7ef-449b-9426-11af404820d6.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598808-306f4597-01ad-4c1a-8c10-7cf891ab8882.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598809-d1230bf1-cf0a-4adf-bc58-505e2b877a6d.jpeg" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598810-9b1375f7-ce29-4f75-aa09-b57a475c76a5.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598811-43598b5f-8151-4ff4-a713-1e447a0e571f.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598813-7364fc6a-0d8b-42e7-b9f8-9e0014f71bbd.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598815-a25d5dd9-7155-49e1-bd59-db4184961203.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598816-38a5ade1-7008-4c4a-9c25-cc39d33da042.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598817-60229d5a-3562-46d7-ba1e-1368be0ec92c.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598822-3f5c617b-b6a0-43d3-83c0-cc820281c1c3.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598823-0b44478b-a9fd-425c-abaf-bb6505243bb8.PNG" width="23%"></img> <img src="https://user-images.githubusercontent.com/83181391/192598826-f49c39c7-8c7c-42bb-b8af-0be97ad3ded3.PNG" width="23%"></img> 
+🏠 **Skape** — Homeowner app (iOS & Android)
+> Book services, track your landscaper in real-time, manage recurring jobs, and pay securely — all from your phone.
+
+🌿 **Skaper** — Landscaper app (iOS & Android)  
+> Find jobs nearby, submit bids, manage your schedule, build your client base, and grow your business.
+
+🌐 **skape.us** — Website  
+> Learn more, explore coverage areas, and download the apps.
+
+## Services
+
+Mowing · Hedge Trimming · Leaf Removal · Weed Removal · Mulching · Snow Plowing · Weed Whacking · Debris Cleanup · Edging — with more being added regularly.
+
+## Where We Operate
+
+Active across **10 states**: New York, New Jersey, Florida, Maryland, Alabama, Indiana, Washington, North Carolina, Kansas, and Georgia.
+
+## Tech
+
+Built with **Flutter**, **Firebase**, and **Kotlin Multiplatform** by engineers with backgrounds from Columbia University and Fortune 50 companies. We care deeply about clean architecture, great UX, and shipping fast.
+
+## Links
+
+| | |
+|---|---|
+| 🌐 Website | [skape.us](https://skape.us) |
+| 📱 App Store | [Download Skape](https://apps.apple.com/app/skape-landscaping-on-demand/id1598935301) |
+| 🤖 Google Play | [Download Skape](https://play.google.com/store/apps/details?id=com.skape.app) |
+| 📧 Contact | team@skape.us |
+
+---
+
+<div align="center">
+
+**© 2021 Skape Industries LLC. All Rights Reserved.**
+
+*Skape® is a registered trademark of Skape Industries LLC.*
+
+</div>
