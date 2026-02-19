@@ -24,8 +24,11 @@ Landscapers bid on jobs, homeowners pick their favorite, and everything from sch
 🌿 **Skaper** — Landscaper app (iOS & Android)  
 > Find jobs nearby, submit bids, manage your schedule, build your client base, and grow your business.
 
-🌐 **skape.us** — Website  
+🌐 **skape.us** — Marketing website  
 > Learn more, explore coverage areas, and download the apps.
+
+🛡️ **Command Center** — Internal admin dashboard  
+> Real-time operations map, user management, job monitoring, analytics, and platform configuration.
 
 ## Services
 
@@ -35,9 +38,37 @@ Mowing · Hedge Trimming · Leaf Removal · Weed Removal · Mulching · Snow Plo
 
 Active across **10 states**: New York, New Jersey, Florida, Maryland, Alabama, Indiana, Washington, North Carolina, Kansas, and Georgia.
 
-## Tech
+## Tech Stack
 
-Built with **Flutter**, **Firebase**, and **Kotlin Multiplatform** by engineers with backgrounds from Columbia University and Fortune 50 companies. We care deeply about clean architecture, great UX, and shipping fast.
+### Mobile Apps
+- **Flutter** & **Dart** — Cross-platform iOS & Android apps
+- **Google Maps SDK** — Real-time maps, geocoding, satellite imagery
+- **BLoC / Cubit** — State management
+- **GetX** — Navigation & dependency injection
+
+### AI & Computer Vision
+- **GPT-4o** — AI-powered property analysis from satellite imagery
+- **SAM 2 (Segment Anything Model 2)** — Image segmentation for property features
+- **Modal** — GPU-accelerated serverless inference
+- **ArcGIS / State GIS Services** — Public parcel boundary data for 7+ states
+
+### Backend & Infrastructure
+- **Firebase** — Auth, Firestore, Cloud Functions, Hosting, Cloud Messaging, Storage
+- **Cloud Functions (Node.js / TypeScript)** — Serverless backend logic
+- **Stripe Connect** — Payments, payouts, and connected accounts for landscapers
+- **Algolia** — Full-text search and geosearch for jobs and users
+
+### Web
+- **Next.js** — Marketing website & admin dashboard (static export)
+- **Tailwind CSS** — UI styling
+- **Mapbox GL** — Interactive operations map in admin dashboard
+- **CARTO** — Map tile provider
+
+### DevOps & Tooling
+- **GitHub Actions** — CI/CD pipelines
+- **Fastlane** — iOS & Android build automation
+- **Firebase App Distribution** — Beta testing
+- **Sentry** — Error tracking and crash reporting
 
 ## Links
 
