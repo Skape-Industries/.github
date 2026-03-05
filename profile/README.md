@@ -75,8 +75,8 @@ Active across **10 states**: New York, New Jersey, Florida, Maryland, Alabama, I
 | | |
 |---|---|
 | 🌐 Website | [skape.us](https://skape.us) |
-| 📱 App Store | [Download Skape](https://apps.apple.com/app/skape-landscaping-on-demand/id1598935301) |
-| 🤖 Google Play | [Download Skape](https://play.google.com/store/apps/details?id=com.skape.app) |
+| 📱 App Store | [Download Skape](https://apps.apple.com/us/app/skape/id1671217927) |
+| 🤖 Google Play | [Download Skape](https://play.google.com/store/apps/details?id=us.skape.skape) |
 | 📧 Contact | team@skape.us |
 
 ---
