@@ -43,7 +43,7 @@ Mowing · Hedge Trimming · Leaf Removal · Weed Removal · Mulching · Snow Plo
 
 ## Where We Operate
 
-Active across **10 states**: New York, New Jersey, Florida, Maryland, Alabama, Indiana, Washington, North Carolina, Kansas, and Georgia.
+Active across **10 states**: New York, New Jersey, Alabama, Maryland, Indiana, Washington, North Carolina, Kansas, Georgia, Florida, Virginia, Utah, Oklahoma, and Pennsylvania.
 
 ## Tech Stack
 
@@ -82,8 +82,10 @@ Active across **10 states**: New York, New Jersey, Florida, Maryland, Alabama, I
 | | |
 |---|---|
 | 🌐 Website | [skape.us](https://skape.us) |
-| 📱 App Store | [Download Skape](https://apps.apple.com/us/app/skape/id1671217927) |
-| 🤖 Google Play | [Download Skape](https://play.google.com/store/apps/details?id=us.skape.skape) |
+| 📱 App Store | [Download Skape (For Homeowners)](https://apps.apple.com/us/app/skape/id1671217927) |
+| 🤖 Google Play | [Download Skape (For Homeowners)](https://play.google.com/store/apps/details?id=us.skape.skape) |
+| 📱 App Store | [Download Skaper (For Landscapers)](https://apps.apple.com/us/app/skaper/id1671218172) |
+| 🤖 Google Play | [Download Skaper (For Landscapers)](https://play.google.com/store/apps/details?id=us.skape.skaper) |
 | 📧 Contact | team@skape.us |
 
 ---
